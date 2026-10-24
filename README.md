@@ -1,0 +1,1 @@
+Open index.html to select a project. Each experiment has an individual HTML file and uses the included styles.css and experiment.js. Demo records are stored in browser local storage; external services are not connected.
